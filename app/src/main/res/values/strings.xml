@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SMS_App</string>
+    <string name="permissionInfo_NotGood">The Application need SMS permission to work properly !</string>
+    <string name="permissionInfo_OK">Permissions : OK</string>
+    <string name="accept_permisisons">Accept permisisons</string>
+    <string name="retour"><![CDATA[< Retour]]></string>
+    <string name="display_sms_list">Display SMS List</string>
+    <string name="hello">hello</string>
+</resources>

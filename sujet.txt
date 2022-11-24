@@ -1,0 +1,15 @@
+Basic (/17) : 
+- Première appli : enregistrer / desenregistrer BroadcastReceiver
+- Deuxième appli : reveil BroadcastReceiver (envoi données random)
+- Troisième appli : afficher les données de la BDD
+
+Le but : envoyer les données recues par le BroadcastReceiver à la BDD (SQLite)
+
+
+Evoluée (/20) :
+- Données relative aux sms (Recevoir SMS + stocker dans BDD)
+
+
+Pistes : 
+
+https://developer.android.com/training/data-storage/sqlite#java
